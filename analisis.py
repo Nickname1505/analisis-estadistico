@@ -7,3 +7,4 @@ print("Datos:", datos)
 
 print("Suma:", sum(datos))
 print("Promedio:", sum(datos) / len(datos))
+print("Conteo:", len(datos))
