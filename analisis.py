@@ -6,3 +6,4 @@ datos = [10, 20, 30, 40, 50]
 print("Datos:", datos)
 
 print("Suma:", sum(datos))
+print("Promedio:", sum(datos) / len(datos))
